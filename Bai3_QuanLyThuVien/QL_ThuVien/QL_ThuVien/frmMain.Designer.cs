@@ -30,6 +30,7 @@
         {
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.button1 = new System.Windows.Forms.Button();
             this.btnDocGia = new System.Windows.Forms.Button();
             this.btnTaiLieu = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
@@ -45,6 +46,7 @@
             // 
             // panel1
             // 
+            this.panel1.Controls.Add(this.button1);
             this.panel1.Controls.Add(this.btnDocGia);
             this.panel1.Controls.Add(this.btnTaiLieu);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -52,6 +54,16 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(437, 327);
             this.panel1.TabIndex = 1;
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(238, 24);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(156, 66);
+            this.button1.TabIndex = 2;
+            this.button1.Text = "Phiếu Mượn";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // btnDocGia
             // 
@@ -96,5 +108,6 @@
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Button btnDocGia;
         private System.Windows.Forms.Button btnTaiLieu;
+        private System.Windows.Forms.Button button1;
     }
 }
