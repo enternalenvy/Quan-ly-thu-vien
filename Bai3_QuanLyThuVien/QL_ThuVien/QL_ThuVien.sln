@@ -9,6 +9,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BangThuVien", "BangThuVien\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KetNoiDB", "KetNoiDB\KetNoiDB.csproj", "{F2AE6C67-843A-428C-A7BC-243062D99B9F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4EBBF8C9-EE01-44DD-8D96-9E56126CCEF8}"
+	ProjectSection(SolutionItems) = preProject
+		DAL\DAL_ChiTietPhieuMuon.cs = DAL\DAL_ChiTietPhieuMuon.cs
+		DAL\DAL_PhieuMuon.cs = DAL\DAL_PhieuMuon.cs
+		Entity\EC_ChiTietPhieuMuon.cs = Entity\EC_ChiTietPhieuMuon.cs
+		Entity\EC_PhieuMuon.cs = Entity\EC_PhieuMuon.cs
+		DAL\KetNoiData.cs = DAL\KetNoiData.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
