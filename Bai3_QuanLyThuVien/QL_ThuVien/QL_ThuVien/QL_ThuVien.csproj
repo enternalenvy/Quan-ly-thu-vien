@@ -74,12 +74,6 @@
     <Compile Include="frmPhieuMuon.Designer.cs">
       <DependentUpon>frmPhieuMuon.cs</DependentUpon>
     </Compile>
-    <Compile Include="TAILIEU.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="TAILIEU.Designer.cs">
-      <DependentUpon>TAILIEU.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="DocGia.resx">
@@ -96,9 +90,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmPhieuMuon.resx">
       <DependentUpon>frmPhieuMuon.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="TAILIEU.resx">
-      <DependentUpon>TAILIEU.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

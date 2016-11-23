@@ -5,3 +5,10 @@ D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\DAL\bin\Debug\Entity.pd
 D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\DAL\obj\Debug\DAL.dll
 D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\DAL\obj\Debug\DAL.pdb
+D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\DAL\bin\Debug\DAL.dll
+D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\DAL\bin\Debug\DAL.pdb
+D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\DAL\bin\Debug\Entity.dll
+D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\DAL\bin\Debug\Entity.pdb
+D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\DAL\obj\Debug\DAL.dll
+D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\DAL\obj\Debug\DAL.pdb

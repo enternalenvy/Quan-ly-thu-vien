@@ -3,3 +3,7 @@ D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\Entity\bin\Debug\Entity
 D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\Entity\obj\Debug\Entity.dll
 D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\Entity\obj\Debug\Entity.pdb
 D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\Entity\bin\Debug\Entity.dll
+D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\Entity\bin\Debug\Entity.pdb
+D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\Entity\obj\Debug\Entity.dll
+D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\Entity\obj\Debug\Entity.pdb

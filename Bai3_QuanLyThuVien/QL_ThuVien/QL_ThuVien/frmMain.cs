@@ -19,8 +19,8 @@ namespace QL_ThuVien
 
         private void btnTaiLieu_Click(object sender, EventArgs e)
         {
-            frmTAILIEU frm = new frmTAILIEU();
-            frm.Show();
+            //frmTAILIEU frm = new frmTAILIEU();
+            //frm.Show();
         }
 
         private void btnDocGia_Click(object sender, EventArgs e)
@@ -43,6 +43,12 @@ namespace QL_ThuVien
             {
                 Application.Exit();
             }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            frmHelp fr = new frmHelp();
+            fr.Show();
         }
 
     }
