@@ -43,5 +43,10 @@ namespace DAL
         {
             cn.ThucHienLenh(@"DELETE FROM PhieuMuon where MaPM = '" + et.MaPM + "'");
         }
+        public DataTable GetThongTinTimKiem(string dieukien)
+        {
+            return cn.GetDataTable(@"SELECT MaPM, PhieuMuon.MaBD, HoTen, TrangThai FROM PhieuMuon,BanDoc " + dieukien);
+        }
+
     }
 }

@@ -11,9 +11,9 @@ namespace DAL
     public class DAL_ChiTietPhieuMuon
     {
         KetNoiData cn = new KetNoiData();
-        public DataTable getAllChiTietPhieuMuon()
+        public DataTable getAllChiTietPhieuMuon(string name)
         {
-            return cn.GetDataTable(@"SELECT * FROM ChiTietPhieuMuon");
+            return cn.GetDataTable(@"SELECT MaPM, NgayMuon, NgayTra, b.NhanDe, GhiChu FROM ChiTietPhieuMuon a, TaiLieu b, GiaTriCaBiet c where a.GTCB = c.GTCB and c.MaTL = b.MaTL and a.MaPM = '"+name+"'");
         }
         public bool Them(EC_ChiTietPhieuMuon et)
         {
@@ -39,9 +39,9 @@ namespace DAL
                 return false;
             }
         }
-        public void Xoa(EC_ChiTietPhieuMuon et)
+        public void Xoa(string name)
         {
-            cn.ThucHienLenh(@"DELETE FROM ChiTietPhieuMuon where MaPM = '" + et.MaPM + "'");
+            cn.ThucHienLenh(@"DELETE FROM ChiTietPhieuMuon where GTCB = '" + name+ "'");
         }
     }
 }
