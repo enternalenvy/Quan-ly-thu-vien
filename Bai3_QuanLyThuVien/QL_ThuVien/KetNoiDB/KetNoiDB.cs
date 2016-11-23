@@ -15,7 +15,7 @@ namespace KetNoiDB
         private static string con;
         public static string connectionString()
         {
-            con = @"Data Source=DESKTOP-14K4MKK\SQLEXPRESS;Initial Catalog=QL_ThuVien;Integrated Security=true;";
+            con = @"Data Source=KEVIL-PC;Initial Catalog=QL_ThuVien;Integrated Security=true;";
             return con;
         }
         public static int setConnect(string server, string database, string username, string userpassword)

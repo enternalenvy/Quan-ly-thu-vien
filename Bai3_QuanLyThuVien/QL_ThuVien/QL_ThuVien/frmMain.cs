@@ -25,8 +25,13 @@ namespace QL_ThuVien
 
         private void btnDocGia_Click(object sender, EventArgs e)
         {
-            DocGia frm = new DocGia();
+            frmDocGia frm = new frmDocGia();
             frm.Show();
+        }
+
+        private void frmMain_Load(object sender, EventArgs e)
+        {
+
         }
 
     }

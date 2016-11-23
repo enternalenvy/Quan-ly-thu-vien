@@ -74,9 +74,10 @@ D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Deb
 D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\BangThuVien.pdb
 D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\KetNoiDB.pdb
 D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csprojResolveAssemblyReference.cache
-D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.DocGia.resources
 D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmDocGia.resources
 D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmMain.resources
 D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmTAILIEU.resources
 D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Properties.Resources.resources
 D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.GenerateResource.Cache
+D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmDangNhap.resources
+D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmPhieuMuon.resources

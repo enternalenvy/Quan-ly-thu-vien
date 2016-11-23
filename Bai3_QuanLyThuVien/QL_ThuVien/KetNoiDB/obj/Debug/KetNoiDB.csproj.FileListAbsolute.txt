@@ -12,3 +12,7 @@ D:\hoc tap\Nam 4\k6_thay\tt_nhom\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\bin\Debu
 D:\hoc tap\Nam 4\k6_thay\tt_nhom\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.csprojResolveAssemblyReference.cache
 D:\hoc tap\Nam 4\k6_thay\tt_nhom\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.dll
 D:\hoc tap\Nam 4\k6_thay\tt_nhom\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.pdb
+D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\bin\Debug\KetNoiDB.dll
+D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\bin\Debug\KetNoiDB.pdb
+D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.dll
+D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\KetNoiDB\obj\Debug\KetNoiDB.pdb

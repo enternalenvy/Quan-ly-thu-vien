@@ -51,7 +51,26 @@ namespace QL_ThuVien
             chon = 0;
         }
 
-        private void dgvBanDoc_CellClick(object sender, DataGridViewCellEventArgs e)
+       
+
+        
+       
+
+        private void btnThem_Click_1(object sender, EventArgs e)
+        {
+            MoDK();
+            txtMa.Enabled = false;
+            SetNull();
+            chon = 1;
+        }
+
+        private void btnSua_Click_1(object sender, EventArgs e)
+        {
+            MoDK();
+            chon = 2;
+        }
+
+        private void dgvBanDoc_CellClick_1(object sender, DataGridViewCellEventArgs e)
         {
             try
             {
@@ -68,21 +87,7 @@ namespace QL_ThuVien
             catch { }
         }
 
-        private void btnThem_Click(object sender, EventArgs e)
-        {
-            MoDK();
-            txtMa.Enabled = false;
-            SetNull();
-            chon = 1;
-        }
-
-        private void btnSua_Click(object sender, EventArgs e)
-        {
-            MoDK();
-            chon = 2;
-        }
-
-        private void btnXoa_Click(object sender, EventArgs e)
+        private void btnXoa_Click_1(object sender, EventArgs e)
         {
             if (txtMa.Text == "")
                 MessageBox.Show("Mời bạn chọn người xóa!");
@@ -98,12 +103,7 @@ namespace QL_ThuVien
             }
         }
 
-        private void btnHuy_Click(object sender, EventArgs e)
-        {
-            frmDocGia_Load(sender, e);
-        }
-
-        private void btnLuu_Click(object sender, EventArgs e)
+        private void btnLuu_Click_1(object sender, EventArgs e)
         {
             if (chon == 1)
             {
@@ -111,12 +111,12 @@ namespace QL_ThuVien
                     MessageBox.Show("Mời nhập đầy đủ thông tin!");
                 else
                     if (DialogResult.Yes == MessageBox.Show("Bạn có muốn thêm Độc giả này?", "THÔNG BÁO", MessageBoxButtons.YesNo, MessageBoxIcon.Question))
-                {
-                    bd.ThemBanDoc(txtHoTen.Text, cbGT.Text, DateTime.Parse(dtpNgaySinh.Text), txtCMND.Text, txtMaLop.Text, txtDiaChi.Text, txtEmail.Text, txtDienThoai.Text);
-                    MessageBox.Show("Thêm thành công!");
-                    SetNull();
-                    frmDocGia_Load(sender, e);
-                }
+                    {
+                        bd.ThemBanDoc(txtHoTen.Text, cbGT.Text, DateTime.Parse(dtpNgaySinh.Text), txtCMND.Text, txtMaLop.Text, txtDiaChi.Text, txtEmail.Text, txtDienThoai.Text);
+                        MessageBox.Show("Thêm thành công!");
+                        SetNull();
+                        frmDocGia_Load(sender, e);
+                    }
             }
             else if (chon == 2)
             {
@@ -124,13 +124,28 @@ namespace QL_ThuVien
                     MessageBox.Show("Mời nhập đầy đủ thông tin!");
                 else
                     if (DialogResult.Yes == MessageBox.Show("Bạn có muốn Sửa Độc giả này?", "THÔNG BÁO", MessageBoxButtons.YesNo, MessageBoxIcon.Question))
-                {
-                    bd.SuaBanDoc(txtMa.Text, txtHoTen.Text, cbGT.Text, DateTime.Parse(dtpNgaySinh.Text), txtCMND.Text, txtMaLop.Text, txtDiaChi.Text, txtEmail.Text, txtDienThoai.Text);
-                    MessageBox.Show("Sửa thành công!");
-                    SetNull();
-                    frmDocGia_Load(sender, e);
-                }
+                    {
+                        bd.SuaBanDoc(txtMa.Text, txtHoTen.Text, cbGT.Text, DateTime.Parse(dtpNgaySinh.Text), txtCMND.Text, txtMaLop.Text, txtDiaChi.Text, txtEmail.Text, txtDienThoai.Text);
+                        MessageBox.Show("Sửa thành công!");
+                        SetNull();
+                        frmDocGia_Load(sender, e);
+                    }
             }
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            this.Hide();
+        }
+
+        private void btnHuy_Click_1(object sender, EventArgs e)
+        {
+            frmDocGia_Load(sender, e);
+        }
+
+        private void cbTK_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
 
         private void txtTimKiem_TextChanged(object sender, EventArgs e)
@@ -151,9 +166,13 @@ namespace QL_ThuVien
             }
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void cbGT_SelectedIndexChanged(object sender, EventArgs e)
         {
-            this.Hide();
+
         }
+
+      
+
+      
     }
 }

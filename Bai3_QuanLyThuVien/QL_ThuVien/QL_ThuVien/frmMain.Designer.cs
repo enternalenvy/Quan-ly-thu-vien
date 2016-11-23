@@ -30,8 +30,8 @@
         {
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.btnTaiLieu = new System.Windows.Forms.Button();
             this.btnDocGia = new System.Windows.Forms.Button();
+            this.btnTaiLieu = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -53,16 +53,6 @@
             this.panel1.Size = new System.Drawing.Size(437, 327);
             this.panel1.TabIndex = 1;
             // 
-            // btnTaiLieu
-            // 
-            this.btnTaiLieu.Location = new System.Drawing.Point(24, 24);
-            this.btnTaiLieu.Name = "btnTaiLieu";
-            this.btnTaiLieu.Size = new System.Drawing.Size(156, 66);
-            this.btnTaiLieu.TabIndex = 0;
-            this.btnTaiLieu.Text = "Tài liệu";
-            this.btnTaiLieu.UseVisualStyleBackColor = true;
-            this.btnTaiLieu.Click += new System.EventHandler(this.btnTaiLieu_Click);
-            // 
             // btnDocGia
             // 
             this.btnDocGia.Location = new System.Drawing.Point(24, 123);
@@ -72,6 +62,16 @@
             this.btnDocGia.Text = "Độc Giả";
             this.btnDocGia.UseVisualStyleBackColor = true;
             this.btnDocGia.Click += new System.EventHandler(this.btnDocGia_Click);
+            // 
+            // btnTaiLieu
+            // 
+            this.btnTaiLieu.Location = new System.Drawing.Point(24, 24);
+            this.btnTaiLieu.Name = "btnTaiLieu";
+            this.btnTaiLieu.Size = new System.Drawing.Size(156, 66);
+            this.btnTaiLieu.TabIndex = 0;
+            this.btnTaiLieu.Text = "Tài liệu";
+            this.btnTaiLieu.UseVisualStyleBackColor = true;
+            this.btnTaiLieu.Click += new System.EventHandler(this.btnTaiLieu_Click);
             // 
             // frmMain
             // 
@@ -83,6 +83,7 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "frmMain";
             this.Text = "frmMain";
+            this.Load += new System.EventHandler(this.frmMain_Load);
             this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();

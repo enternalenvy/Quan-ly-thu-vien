@@ -31,7 +31,7 @@ namespace QL_ThuVien
             {
                 if (txtPass.Text == pass)
                 {
-                    Properties.Settings.Default.user = txtMa.Text;
+                //    Properties.Settings.Default.user = txtMa.Text;
                     Properties.Settings.Default.Save();
                     DialogResult = DialogResult.OK;
                     this.Close();
@@ -60,7 +60,7 @@ namespace QL_ThuVien
 
         private void frmDangNhap_Load(object sender, EventArgs e)
         {
-            txtMa.Text = Properties.Settings.Default.user;
+           // txtMa.Text = Properties.Settings.Default.user;
         }
     }
 }

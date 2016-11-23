@@ -62,12 +62,6 @@
     <Compile Include="frmMain.Designer.cs">
       <DependentUpon>frmMain.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmPhieuMuon.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmPhieuMuon.designer.cs">
-      <DependentUpon>frmPhieuMuon.cs</DependentUpon>
-    </Compile>
     <Compile Include="TAILIEU.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -84,9 +78,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmPhieuMuon.resx">
-      <DependentUpon>frmPhieuMuon.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="TAILIEU.resx">
       <DependentUpon>TAILIEU.cs</DependentUpon>

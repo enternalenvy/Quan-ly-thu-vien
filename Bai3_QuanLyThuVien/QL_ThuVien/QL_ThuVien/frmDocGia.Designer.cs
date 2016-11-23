@@ -82,6 +82,7 @@
             this.txtTimKiem.Name = "txtTimKiem";
             this.txtTimKiem.Size = new System.Drawing.Size(194, 20);
             this.txtTimKiem.TabIndex = 2;
+            this.txtTimKiem.TextChanged += new System.EventHandler(this.txtTimKiem_TextChanged);
             // 
             // groupBox4
             // 
@@ -108,6 +109,7 @@
             this.button1.TabIndex = 23;
             this.button1.Text = "Thoát";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
             // btnThem
             // 
@@ -117,6 +119,7 @@
             this.btnThem.TabIndex = 18;
             this.btnThem.Text = "Thêm";
             this.btnThem.UseVisualStyleBackColor = false;
+            this.btnThem.Click += new System.EventHandler(this.btnThem_Click_1);
             // 
             // btnXoa
             // 
@@ -126,6 +129,7 @@
             this.btnXoa.TabIndex = 22;
             this.btnXoa.Text = "Xóa";
             this.btnXoa.UseVisualStyleBackColor = true;
+            this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click_1);
             // 
             // btnLuu
             // 
@@ -135,6 +139,7 @@
             this.btnLuu.TabIndex = 19;
             this.btnLuu.Text = "Lưu";
             this.btnLuu.UseVisualStyleBackColor = true;
+            this.btnLuu.Click += new System.EventHandler(this.btnLuu_Click_1);
             // 
             // btnHuy
             // 
@@ -144,6 +149,7 @@
             this.btnHuy.TabIndex = 21;
             this.btnHuy.Text = "Hủy";
             this.btnHuy.UseVisualStyleBackColor = true;
+            this.btnHuy.Click += new System.EventHandler(this.btnHuy_Click_1);
             // 
             // btnSua
             // 
@@ -153,6 +159,7 @@
             this.btnSua.TabIndex = 20;
             this.btnSua.Text = "Sửa";
             this.btnSua.UseVisualStyleBackColor = true;
+            this.btnSua.Click += new System.EventHandler(this.btnSua_Click_1);
             // 
             // label10
             // 
@@ -191,6 +198,7 @@
             this.dgvBanDoc.Name = "dgvBanDoc";
             this.dgvBanDoc.Size = new System.Drawing.Size(932, 244);
             this.dgvBanDoc.TabIndex = 0;
+            this.dgvBanDoc.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvBanDoc_CellClick_1);
             // 
             // Column1
             // 
@@ -267,14 +275,19 @@
             this.cbTK.Name = "cbTK";
             this.cbTK.Size = new System.Drawing.Size(137, 21);
             this.cbTK.TabIndex = 1;
+            this.cbTK.SelectedIndexChanged += new System.EventHandler(this.cbTK_SelectedIndexChanged);
             // 
             // cbGT
             // 
             this.cbGT.FormattingEnabled = true;
+            this.cbGT.Items.AddRange(new object[] {
+            "Nam",
+            "Nữ"});
             this.cbGT.Location = new System.Drawing.Point(104, 64);
             this.cbGT.Name = "cbGT";
             this.cbGT.Size = new System.Drawing.Size(178, 21);
             this.cbGT.TabIndex = 17;
+            this.cbGT.SelectedIndexChanged += new System.EventHandler(this.cbGT_SelectedIndexChanged);
             // 
             // dtpNgaySinh
             // 
