@@ -25,13 +25,24 @@ namespace QL_ThuVien
 
         private void btnDocGia_Click(object sender, EventArgs e)
         {
-            frmDocGia frm = new frmDocGia();
+            DocGia frm = new DocGia();
             frm.Show();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            frmPhieuMuon pm = new frmPhieuMuon();
+            pm.Show();
         }
 
         private void frmMain_Load(object sender, EventArgs e)
         {
-
+            Form dn = new frmDangNhap();
+            DialogResult TL = dn.ShowDialog();
+            if (TL != DialogResult.OK)
+            {
+                Application.Exit();
+            }
         }
 
     }

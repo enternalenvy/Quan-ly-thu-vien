@@ -64,20 +64,25 @@ D:\hoc tap\Nam 4\k6_thay\tt_nhom\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\De
 D:\hoc tap\Nam 4\k6_thay\tt_nhom\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Properties.Resources.resources
 D:\hoc tap\Nam 4\k6_thay\tt_nhom\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.GenerateResource.Cache
 D:\hoc tap\Nam 4\k6_thay\tt_nhom\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmMain.resources
-D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe.config
-D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.exe
-D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.pdb
-D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe
-D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.pdb
-D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\BangThuVien.dll
-D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\KetNoiDB.dll
-D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\BangThuVien.pdb
-D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\KetNoiDB.pdb
-D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csprojResolveAssemblyReference.cache
-D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmDocGia.resources
-D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmMain.resources
-D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmTAILIEU.resources
-D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Properties.Resources.resources
-D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.GenerateResource.Cache
-D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmDangNhap.resources
-D:\GitHubLocal\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmPhieuMuon.resources
+D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe.config
+D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.exe
+D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.pdb
+D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.exe
+D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\QL_ThuVien.pdb
+D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\BangThuVien.dll
+D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\KetNoiDB.dll
+D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\BangThuVien.pdb
+D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\KetNoiDB.pdb
+D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csprojResolveAssemblyReference.cache
+D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.DocGia.resources
+D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmMain.resources
+D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmTAILIEU.resources
+D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.Properties.Resources.resources
+D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.csproj.GenerateResource.Cache
+D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmPhieuMuon.resources
+D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\DAL.dll
+D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\Entity.dll
+D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\DAL.pdb
+D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\bin\Debug\Entity.pdb
+D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmDangNhap.resources
+D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\QL_ThuVien\obj\Debug\QL_ThuVien.frmHelp.resources

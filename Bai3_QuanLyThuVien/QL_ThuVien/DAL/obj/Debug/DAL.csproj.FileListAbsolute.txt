@@ -1,0 +1,7 @@
+D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\DAL\bin\Debug\DAL.dll
+D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\DAL\bin\Debug\DAL.pdb
+D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\DAL\bin\Debug\Entity.dll
+D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\DAL\bin\Debug\Entity.pdb
+D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\DAL\obj\Debug\DAL.dll
+D:\GitHub\Quan-ly-thu-vien\Bai3_QuanLyThuVien\QL_ThuVien\DAL\obj\Debug\DAL.pdb

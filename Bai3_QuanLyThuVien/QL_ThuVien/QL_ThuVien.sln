@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QL_ThuVien", "QL_ThuVien\QL_ThuVien.csproj", "{BB9093B4-837F-4BA4-B218-66697546B080}"
 EndProject
@@ -9,14 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BangThuVien", "BangThuVien\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KetNoiDB", "KetNoiDB\KetNoiDB.csproj", "{F2AE6C67-843A-428C-A7BC-243062D99B9F}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4EBBF8C9-EE01-44DD-8D96-9E56126CCEF8}"
-	ProjectSection(SolutionItems) = preProject
-		DAL\DAL_ChiTietPhieuMuon.cs = DAL\DAL_ChiTietPhieuMuon.cs
-		DAL\DAL_PhieuMuon.cs = DAL\DAL_PhieuMuon.cs
-		Entity\EC_ChiTietPhieuMuon.cs = Entity\EC_ChiTietPhieuMuon.cs
-		Entity\EC_PhieuMuon.cs = Entity\EC_PhieuMuon.cs
-		DAL\KetNoiData.cs = DAL\KetNoiData.cs
-	EndProjectSection
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entity\Entity.csproj", "{B9D4D0BD-2972-4770-AB95-4DD8A7F525DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{065F80C2-E140-440B-B011-0562141405A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,6 +31,14 @@ Global
 		{F2AE6C67-843A-428C-A7BC-243062D99B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2AE6C67-843A-428C-A7BC-243062D99B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2AE6C67-843A-428C-A7BC-243062D99B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9D4D0BD-2972-4770-AB95-4DD8A7F525DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9D4D0BD-2972-4770-AB95-4DD8A7F525DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9D4D0BD-2972-4770-AB95-4DD8A7F525DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9D4D0BD-2972-4770-AB95-4DD8A7F525DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{065F80C2-E140-440B-B011-0562141405A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{065F80C2-E140-440B-B011-0562141405A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{065F80C2-E140-440B-B011-0562141405A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{065F80C2-E140-440B-B011-0562141405A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
