@@ -147,5 +147,10 @@ namespace QL_ThuVien
             dgvTaiLieu.DataSource = tk.TKTL_TacGia(txttk_Tacgia.Text);
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
     }
 }
